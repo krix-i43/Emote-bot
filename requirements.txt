@@ -1,0 +1,9 @@
+flask
+aiohttp
+urllib3
+protobuf
+pycryptodome
+cfonts
+psutil
+pytz
+requests
