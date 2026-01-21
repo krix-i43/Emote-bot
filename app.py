@@ -186,15 +186,15 @@ button:active{
 </div>
 
 <div class="card">
-    <label>🎭 Emote ID</label>
+    <label>🕺🏻 Emote ID</label>
     <input id="ei" placeholder="Enter emote id">
 </div>
 
-<button class="primary-pill" onclick="submitForm()">✨ Start Emote</button>
+<button class="primary-pill" onclick="submitForm()">🎀 Send Emote</button>
 
 <button class="insta-pill"
 onclick="window.open('https://instagram.com/ft_rosie._','_blank')">
-💛 Let’s be friends on Instagram<br>@ft_rosie._
+🫶🏻 Let’s be friends on Instagram<br>@ft_rosie._
 </button>
 
 </div>
