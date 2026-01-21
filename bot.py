@@ -440,7 +440,7 @@ async def perform_emote(team_code, uids, emote_id):
     if not online_writer:
         return
     Heart = 909000045
-    Bot_id = 13615100535
+    Bot_id = 13973841316
     
     join_pkt = await GenJoinSquadsPacket(team_code, key, iv)
     await SEndPacKeT(None, online_writer, 'OnLine', join_pkt)
