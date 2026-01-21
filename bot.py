@@ -460,7 +460,7 @@ async def perform_emote(team_code, uids, emote_id):
     
 async def MaiiiinE():
     global key, iv, region
-    Uid , Pw = '4234626064','E3BCC52332CC5A3987FD8781A9A1CAC5A8EE774466A6F97AA0DDA4D1B8C76897'
+    Uid , Pw = '4311778541','JOBAYAR_X0JZE'
     
 
     open_id , access_token = await GeNeRaTeAccEss(Uid , Pw)
